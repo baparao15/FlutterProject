@@ -1,0 +1,55 @@
+{
+    "lang": "en",
+    "cc": "US",
+    "welcome": "Welcome",
+    "keep_track": "Keeping track of your subscriptions is now much easier",
+    "go": "Go",
+    "my_subs": "My subscriptions",
+    "settings": "Settings",
+    "add": "Add",
+    "null": "There's nothing here",
+    "theme": "Theme",
+    "icons": "Icons",
+    "upload": "Upload",
+    "language": "Language",
+    "icon_title": "Subscription icon",
+    "icon_descreption": "You can choose one of the suggested subscription icons or upload your own",
+    "new_sub": "New subscription",
+    "name": "Name",
+    "pay_date": "Payment date",
+    "reminder": "Reminder",
+    "when_remind": "We will Remind you in",
+    "notes": "Notes",
+    "save": "Save",
+    "about": "More details",
+    "charge_off": "Pay on $whenPay",
+    "delete": "Delete",
+    "edit": "Edit",
+    "editing_mode": "Editing Mode",
+    "changes_alert": "Do you want to save changes?",
+    "cancel": "Cancel",
+    "continue": "Save",
+    "remind_before": {
+        "day": "Remind 1 day before",
+        "three_days": "Remind 3 days before",
+        "week": "Remind 1 week before",
+        "month": "Remind 1 month before"
+    },
+    "sub": {
+        "remaining": {
+            "today": "We Reminded you today",
+            "tomorrow": "We'll remind you tomorrow",
+            "two_days": "We'll remind you the day after tomorrow",
+            "three_four_days": "We'll remind you in $remainingDays days",
+            "more_days": "We'll remind you in $remainingDays days",
+            "expired": "Reminder expired"
+        }
+    },
+    "warnings": {
+        "edit_restricted" : "Editing is not available yet"
+    },
+    "notification": {
+        "title": "Hurry up and disable Subscription ❗",
+        "body": "We remind you to disable $sub before it's too late😏"
+    }
+}
