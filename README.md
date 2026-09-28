@@ -19,12 +19,3 @@
 ✨Fast and Small App size <br>
 ✨Support Language change <br>
 ✨Modern and Comfortable Design <br>
-<h1>🌐Avaible Languages</h1>
-💂‍♂️English <br>
-🥐French <br>
-🐻Russian <br>
-
-<h1>🤝Open For Contributing</h1>
-<p>We love contributions from the community!</p>
-
-<h2> *Out of ideas</h2>
